@@ -5,7 +5,7 @@ public class Datatypes {
         short s = 150;
         int i = 1500;
         long l = 15000l;          //l is compulsory to mention for long otherwise it will be considered as int
-        float f = 150000.0f;      //150000.0F is also valid
+        float f = 150000.0f;      //150000.0F is also valid (f is compulsory to mention for float otherwise it will be considered as double)    
         double d = 1500000.0;     //1500000.0d is also valid
         char c = 'A';
         String str = "Hello, World!"; // Use String for a sequence of characters
