@@ -9,3 +9,4 @@
             scanner.close();
         }
     }
+// Output: Enter your name: Hello, John!

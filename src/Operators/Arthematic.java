@@ -11,3 +11,13 @@ public class Arthematic {
 
     }
 }
+
+/*
+ Output:    
+There are five arthematic operators:
+The addition of a and b = 30
+The subtraction of a and b = -10
+The multiplication of a and b = 200
+The division of a and b = 0
+The modulus of a and b = 10
+ */ 
