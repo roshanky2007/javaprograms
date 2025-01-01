@@ -16,6 +16,7 @@ public class Array_Input {
 
         // Print the values in the array
         System.out.println("The values in the array are:");
+        System.out.println(); // Print a blank line
         for(int i = 0; i < size; i++) {
             System.out.println(Numbers[i]);
         }
@@ -23,3 +24,15 @@ public class Array_Input {
         sc.close();
     }
 }
+//output:
+//Enter the size of the array: 5
+//enter 5 integers:
+//1
+//2
+//3
+//4
+//5
+//The values in the array are:
+//1
+//2
+//3
