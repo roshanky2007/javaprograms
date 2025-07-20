@@ -32,3 +32,31 @@ public class Student_Marks {
  * Marks of student 4: 70
  * Marks of student 5: 60
  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
