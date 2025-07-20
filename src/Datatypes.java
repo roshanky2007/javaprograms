@@ -67,7 +67,7 @@ Boolean bool=: true
 1.4E-45
 1.7976931348623157E308
 4.9E-324
-?     //(? =NUll char    acter  )
+?     //(? =NUll char    a cter  )
       //(Largest Unicode character so cant be seen in output)  
 true
 false*/
