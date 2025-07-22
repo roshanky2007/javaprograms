@@ -69,5 +69,5 @@ Boolean bool=: true
 4.9E-324
 ?     //(? = NUll character)
       //(Largest Unicode character so cant be seen in output)  
-true2222
+true
 false*/
